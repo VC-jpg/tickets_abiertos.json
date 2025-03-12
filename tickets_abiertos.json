@@ -1,0 +1,117 @@
+[
+    {
+        "ticket_id": 51742229,
+        "title": "Solicitud VPN nuevo integrante Orasystem",
+        "assigned_to": "Javiera Parra"
+    },
+    {
+        "ticket_id": 51740712,
+        "title": "Re: [Ticket#1100259402] [TEA][TEST]-Proy. Residencia",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51739576,
+        "title": "Re: [Ticket#1100259376] [TEA] [TEST] Pago Cuotas TFU (se incorpora esta PPAG y se crea nuevo Procedimiento para pago por rut especifico)",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51730631,
+        "title": "[CRAMER] [PROD] Aplicaci\u00f3n de Patch 18997220",
+        "assigned_to": "Christian Duran"
+    },
+    {
+        "ticket_id": 51730509,
+        "title": "Fwd: [Ticket#1100258950] [TEA][PROD] actualizaci\u00f3n otros_mov.fmb  - warnings vi\u00e1ticos",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51729178,
+        "title": "[ISALUD][PROD] SOPORTE Alerta BD: Bloqueo de Sesion IFUSAT",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51724786,
+        "title": "Re: [Ticket#1100258824] [TEA][PROD]-Proyecto Residencia",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51722369,
+        "title": "Re: [Ticket#1100258788] RFC - Proyecto upgrade APEX Sistema ICuentas",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51720703,
+        "title": "SOPORTE Alerta BD: Sesiones Activas con m\u00e1s de 12 Horas IFUSAT",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51720308,
+        "title": "Fwd: [Ticket#1100258742] [TEA] [PROD] Mail Transparencia (incorpora tabla de resumen)",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51710292,
+        "title": "Creaci\u00f3n de cuentas para Vanesa Cid",
+        "assigned_to": "Javiera Parra"
+    },
+    {
+        "ticket_id": 51704512,
+        "title": "Fwd: [Ticket#1100258281] [TEA] [TEST] Mail Transparencia (incorpora tabla de resumen)",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51676181,
+        "title": "Re: [Ticket#1100255980] [TEA][PRODUC][TEST]RE: [GLPI #0022352] Usuario nuevo en asignados revisar el beneficio adicional del gpen0310v y gpen0310p\u00b4  - gpen0310",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51675366,
+        "title": "Re: [Ticket#1100255952] [TEA][PRODUC][TEST]RE: [GLPI #0022678] Usuario nuevo en asignados Problemas con ficha CAEC",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51669848,
+        "title": "Re: [Ticket#1100255674] [TEA][PROD] MAESTRO ARANCEL-PLANES-PREST",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51659172,
+        "title": "Re: [Ticket#1100254767] [TEA][PROD] - Marca Nuevo Proceso Rendiciones - periodo 2025/02",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51656966,
+        "title": "Solicitud paso a producci\u00f3n package BBDD SyF (nuevo sistema carga masiva ajustes x lotes)",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51656118,
+        "title": "Re: [Ticket#1100254616] [TEA] [TEST] - Parametrizaci\u00f3n Fecha UF, Periodo Cotizaciones, Porcentaje Ajuste Excedentes",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51652096,
+        "title": "SOPORTE Alerta BD: Sesiones Activas con m\u00e1s de 12 Horas IFUSAT",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51645933,
+        "title": "Re: [Ticket#1100253621] RV: [ISALUD][PROD] RFC - Proyecto upgrade APEX Sistema ICuentas",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51645777,
+        "title": "[EBSQA] [PASO A QA]  Jira CC-9143",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51645702,
+        "title": "Re: [Ticket#1100253613] [TEA][TEST]-Proy. Paquetes AMB IMED",
+        "assigned_to": "Nadia Ramirez"
+    },
+    {
+        "ticket_id": 51644280,
+        "title": "Re: [Ticket#1100253577] [TEA] [PROD] Circular 477 - Etiqueta Apellidos - Cambio Cod. Relaci\u00f3n (FUN)",
+        "assigned_to": "Nadia Ramirez"
+    }
+]
